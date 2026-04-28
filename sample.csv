@@ -1,0 +1,11 @@
+UserID,Date,Amount,City,Status
+101,10-01-2024,1200,Ahmedabad,Approved
+102,12-01-2024,2500,Surat,Pending
+103,15-01-2024,800,Vadodara,Rejected
+104,18-01-2024,1500,Rajkot,Approved
+105,20-01-2024,3000,Ahmedabad,Pending
+106,22-01-2024,2200,Surat,Approved
+107,25-01-2024,4000,Vadodara,Pending
+108,28-01-2024,1800,Rajkot,Rejected
+109,30-01-2024,1000,Ahmedabad,Approved
+110,02-02-2024,900,Surat,Pending
